@@ -21,3 +21,9 @@ jsnack2 (cartella)
 - index.html
 - script.js`
 e così via
+
+SNACK 1
+- Creare un array con i nomi degli invitati.
+- Faccio un inner nell'index per far scrivere il nome all'user ed un bottone per inviare l'informazione.
+- Confronto il dato dell'user con i nomi nell'array.
+- Se il nome dell'user è presente dico che può partecipare, altrimenti dico che non può.
