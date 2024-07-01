@@ -38,3 +38,9 @@ SNACK 3
 - Creo un input form nell'index dove far scrivere all'user un numero di 4 cifre
 - Scompongo la stringa in 4 numeri distinti andandoli a pushare dentro un array
 - Faccio la somma dei numeri all'interno dell'array
+
+BONUS
+- Creo un arrey vuoto
+- Creo un ciclo FOR con 10 iterazioni con il prompt per far insierire i numeri all'utente
+- Faccio il push di ogni numero inserito dentro l'array
+- Sommo tutti i numeri all'interno dell'array
