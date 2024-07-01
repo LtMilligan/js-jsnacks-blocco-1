@@ -33,3 +33,8 @@ SNACK 2
 - Creo un ciclo FOR con 6 iterazioni con il prompt per far insierire i dati all'user
 - Calcolo tramite IF se il valore inserito è pari o dispari
 - In caso di dato dispari, faccio il push all'interno dell'arrey.
+
+SNACK 3
+- Creo un input form nell'index dove far scrivere all'user un numero di 4 cifre
+- Scompongo la stringa in 4 numeri distinti andandoli a pushare dentro un array
+- Faccio la somma dei numeri all'interno dell'array
