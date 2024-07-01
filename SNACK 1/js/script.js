@@ -18,6 +18,10 @@ btnConferma.addEventListener('click', function () {
         }
     }
     console.log(validUser)
-    
-
+    // Se il nome dell'user è presente dico che può partecipare, altrimenti dico che non può.
+    if (validUser == true) {
+        document.getElementById('validazione').innerText = 'Sei invitato alla festa! DIVERTITI!'
+    }else {
+        document.getElementById('validazione').innerText = 'Vai via o chiamo la polizia!'
+    }
 })
