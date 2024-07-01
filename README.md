@@ -27,3 +27,9 @@ SNACK 1
 - Faccio un inner nell'index per far scrivere il nome all'user ed un bottone per inviare l'informazione.
 - Confronto il dato dell'user con i nomi nell'array.
 - Se il nome dell'user è presente dico che può partecipare, altrimenti dico che non può.
+
+SNACK 2
+- Creo un array vuoto.
+- Creo un ciclo FOR con 6 iterazioni con il prompt per far insierire i dati all'user
+- Calcolo tramite IF se il valore inserito è pari o dispari
+- In caso di dato dispari, faccio il push all'interno dell'arrey.
