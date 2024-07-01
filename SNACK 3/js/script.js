@@ -8,6 +8,11 @@ btnSomma.addEventListener('click', function () {
         numberArray.push(parseInt(stringArray[i]))
     }
     console.log(numberArray)
+    let somma = 0
+    for (let j = 0; j < numberArray.length; j++) {
+        somma += numberArray[j]
+    }
+    document.getElementById('risultatoSomma').innerText = somma
 })
 
 
